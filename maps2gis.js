@@ -1,4 +1,4 @@
-export class maps2gis {
+class maps2gis {
     constructor(mapSelector, data = false) {
         this.name = this.constructor.name;
         console.info(`${this.name} init!`);
